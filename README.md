@@ -1,4 +1,4 @@
-# springboot-i18n
+# Spring Boot实战：国际化配置
 springboot国际化(在[springboot](https://lidawei2019.github.io/springboot/)的基础上加入国际化配置)
 
 ## 加入国际化配置的方法
